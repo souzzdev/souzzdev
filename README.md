@@ -11,8 +11,13 @@
 
 <div align="center">
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesouzadev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_illuminatedsouza/)
+  <a href="https://www.linkedin.com/in/guilhermesouzadev/">
+    <img src="./linkedIn.png" alt="LinkedIn" width="35" />
+  </a>
+
+  <a href="https://www.instagram.com/_illuminatedsouza/">
+    <img src="./instagram.png" alt="Instagram" width="35" />
+  </a>
 
 </div>
 
