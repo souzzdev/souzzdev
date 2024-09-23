@@ -4,7 +4,7 @@
 
 <br>
 
-### Hello World! I'm Guilherme! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Welcome%3A;Hello+World!+I'm+Guilherme!+%F0%9F%91%8B;I'm+From+Brasil)](https://git.io/typing-svg)
 
 <br>
 
