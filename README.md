@@ -1,5 +1,5 @@
 <div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="github-header-image (1).png"/>
+    <img align="center" alt="html5" src="github-header-image1.png"/>
 </div>
 
 <br>
@@ -40,4 +40,10 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c)](https://skillicons.dev)
 
+</div>
+
+<br>
+
+<div style="display: inline_block"></br>
+    <img align="center" alt="html5" src="github-header-image.png"/>
 </div>
