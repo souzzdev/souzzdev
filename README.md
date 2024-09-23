@@ -12,7 +12,7 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/guilhermesouzadev/">
-    <img src="./linkedIn.png" alt="LinkedIn" width="35" />
+    <img src="./linkedin.png" alt="LinkedIn" width="35" />
   </a>
 
   <a href="https://www.instagram.com/_illuminatedsouza/">
