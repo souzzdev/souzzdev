@@ -21,8 +21,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdevtheme=dark
-&layout=compact&theme=theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdevt&layout=compact&theme=theme=dark)
 
 <br>
 
