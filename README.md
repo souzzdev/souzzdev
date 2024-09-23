@@ -19,9 +19,6 @@
     <img src="./instagram.png" alt="Instagram" height="35" width="35" />
   </a>
   &nbsp; <!-- Espaço entre os ícones -->
-  <a href="mailto:guilhermeoliveiraneressouza@gmail.com">
-    <img align="center" height="35" width="35" src="gmail.png" style="vertical-align: middle;">
-  </a>
 
 </div>
 
