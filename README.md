@@ -32,6 +32,9 @@
 
 </div>
 
+![Contributions](https://ssr-contributions-svg.vercel.app/_/souzzdev?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&weeks=30&theme=green&dark=true)
+
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4600&pause=870&color=000000&center=true&vCenter=true&width=435&lines=Technologies+I+use+daily)](https://git.io/typing-svg)
