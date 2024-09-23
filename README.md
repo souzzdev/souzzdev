@@ -22,5 +22,5 @@
 
 <br>
 
-### Technologies I use daily
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4600&pause=870&color=000000&center=true&vCenter=true&width=435&lines=Technologies+I+use+daily)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c)](https://skillicons.dev)
