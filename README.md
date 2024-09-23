@@ -14,14 +14,14 @@
   <a href="https://www.linkedin.com/in/guilhermesouzadev/">
     <img src="./linkedin.png" alt="LinkedIn" height="35" width="35" />
   </a>
-
+  &nbsp; <!-- Espaço entre os ícones -->
   <a href="https://www.instagram.com/_illuminatedsouza/">
     <img src="./instagram.png" alt="Instagram" height="35" width="35" />
   </a>
-
+  &nbsp; <!-- Espaço entre os ícones -->
   <a href="mailto:guilhermeoliveiraneressouza@gmail.com">
-<img align="center" height="35" width="35" src="https://github.com/souzzdev/souzzdev/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
+    <img align="center" height="35" width="35" src="gmail.png" style="vertical-align: middle;">
+  </a>
 
 </div>
 
