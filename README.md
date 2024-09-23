@@ -17,11 +17,11 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzzdev&show_icons=true&theme=dark)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdev&layout=compacttrue&theme=dark)
 
 <br>
 
