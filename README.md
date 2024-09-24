@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<div align="center">
+<div class="insta" align="center">
 
   <a href="https://www.linkedin.com/in/guilhermesouzadev/">
     <img src="./linkedin.png" alt="LinkedIn" height="35" width="35" />
