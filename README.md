@@ -5,7 +5,13 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4600&pause=870&color=46295A&center=true&vCenter=true&width=600&height=60&lines=Welcome%3A;Hello+World!+I'm+Guilherme!+%F0%9F%91%8B;I'm+From+Brasil)](https://git.io/typing-svg)
+<div align="center">
+    
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4600&pause=870&color=46295A&center=true&vCenter=true&width=600&height=60&lines=Welcome%3A;Hello+World!+I'm+Guilherme!+%F0%9F%91%8B;I'm+From+Brasil)](https://git.io/typing-svg)
+ 
+</div>    
+
+
 
 <br>
 <br>
@@ -38,8 +44,13 @@
 <br>
 <br>
 
+<div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4600&pause=870&color=46295A&center=true&vCenter=true&width=435&lines=Technologies+I+use+daily)](https://git.io/typing-svg)
 <div align="center">
+    
+</div>
+
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c)](https://skillicons.dev)
 
