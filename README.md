@@ -52,7 +52,7 @@
 </div>
 
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,c++)](https://skillicons.dev)
 
 </div>
 
