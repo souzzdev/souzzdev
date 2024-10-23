@@ -14,8 +14,8 @@
 <br>
 <br>
 
-<div class="insta" align="center" href="https://www.instagram.com/_illuminatedsouza?igsh=MTd0bXc4aXNiNHk3dA==">
-  <a href="https://skillicons.dev">
+<div class="insta" align="center">
+  <a href="https://www.instagram.com/_illuminatedsouza?igsh=MTd0bXc4aXNiNHk3dA==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
