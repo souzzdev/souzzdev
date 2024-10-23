@@ -18,10 +18,10 @@
   <a href="https://www.instagram.com/_illuminatedsouza?igsh=MTd0bXc4aXNiNHk3dA==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
-
   &nbsp; <!-- Espaço entre os ícones -->
-
+<a href="https://www.linkedin.com/in/guilhermesouzadev">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </div>
 
 <br>  
