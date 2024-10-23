@@ -11,12 +11,14 @@
  
 </div>    
 
-
-
 <br>
 <br>
 
-<div class="insta" align="center">
+<div class="insta" align="center" href="https://www.instagram.com/_illuminatedsouza?igsh=MTd0bXc4aXNiNHk3dA==">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
 
   &nbsp; <!-- Espaço entre os ícones -->
 
