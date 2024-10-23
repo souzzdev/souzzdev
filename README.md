@@ -19,7 +19,8 @@
 <div class="insta" align="center">
 
   <a href="https://www.linkedin.com/in/guilhermesouzadev/">
-    <img src="./linkedin.png" alt="LinkedIn" height="35" width="35" />
+    [![My Skills](https://skillicons.dev/icons?i=linkedln)](https://skillicons.dev)
+
   </a>
   &nbsp; <!-- Espaço entre os ícones -->
   <a href="https://www.instagram.com/_illuminatedsouza/">
@@ -52,7 +53,7 @@
 </div>
 
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql)](https://skillicons.dev)
 
 </div>
 
