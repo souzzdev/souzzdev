@@ -1,59 +1,46 @@
-<div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="github-header-image1.png"/>
-</div>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
+<h1>
+    <span>Guilherme Souza</span>
+</h1>
+
+<p align="justify">
+    Systems Development student at ETEC, focusing on programming languages such as HTML, CSS, Python, and Java.
+    In addition to academic studies, I take a self-taught approach to improve my technical skills and explore new technologies and frameworks.
+    I have hands-on experience in programming, systems analysis, and databases, particularly with MySQL, applying these skills to both academic and personal projects.
+    My main interest is in software development, with a strong inclination to specialize in backend and build robust, scalable systems.
+    I am looking for opportunities where I can apply and expand my knowledge, contributing to the development of innovative and efficient technology solutions.
+</p>
 
 <br>
-<br>
 
-<div align="center">
-    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4600&pause=870&color=46295A&center=true&vCenter=true&width=600&height=60&lines=Welcome%3A;Hello+World!+I'm+Guilherme!+%F0%9F%91%8B;I'm+From+Brasil)](https://git.io/typing-svg)
- 
-</div>    
+### 🚀🛠️ Technologies I Use / Study
 
-<br>
-<br>
-
-<div class="insta" align="center">
-  <a href="https://www.instagram.com/_illuminatedsouza?igsh=MTd0bXc4aXNiNHk3dA==">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css" alt="My Skills" />
   </a>
-  &nbsp; <!-- Espaço entre os ícones -->
-<a href="https://www.linkedin.com/in/guilhermesouzadev">
-     <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</div>
-
-<br>  
-<br>
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzzdev&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdev&layout=compact&theme=dark)
-
-</div>
+</p>
 
 <br>
-<br>
 
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4600&pause=870&color=46295A&center=true&vCenter=true&width=435&lines=Technologies+I+use+daily)](https://git.io/typing-svg)
-<div align="center">
-    
-</div>
+### 🌐🔗 Connect with me
 
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,mysql)](https://skillicons.dev)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilhermesouzadev)
 
 <br>
-<br>
 
-<div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="github-header-image.png"/>
-</div>
+### 📊💻 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&line_height=25&hide=issues&border_radius=3&border_color=36123c" alt="GitHub stats" />
+</p>
+
+<details align="left">
+  <summary>ℹ️ More Info</summary> 
+ 
+  - 🛡️ Badges by <a href="https://shields.io/">shields.io</a><br>
+  - 📈 GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
+  - 🧑‍💻 Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+
+</details>
