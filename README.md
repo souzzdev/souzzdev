@@ -1,7 +1,6 @@
 
-
 <h1>   <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="3657405.png">
-    <span>Guilherme Souza</span>  
+    <span href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=java" alt="My Skills"> Guilherme Souza</span>  
 </h1> 
 
 <p align="justify">  
