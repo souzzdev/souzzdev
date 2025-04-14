@@ -19,7 +19,9 @@
   <a href="https://skillicons.dev">  
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css" alt="My Skills" />  
   </a>  
-</p>  <br>  🌐🔗 Connect with me
+</p>  
+
+<br>  🌐🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0&color=000000)](https://www.linkedin.com/in/guilhermesouzadev)
 
