@@ -30,7 +30,7 @@
 <h2>📊💻 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdev&hide_progress=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUZZDEV&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="left">
