@@ -13,23 +13,32 @@
 
 <br>  
 
-🚀🛠️ Technologies I Use / Study
+<h2>🚀🛠️ Technologies I Use / Study</h2>
 
 <p align="left">  
   <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql" alt="My Skills" />  
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql" alt="My Skills" />  
   </a>  
 </p>  
 
-<br>  🌐🔗 Connect with me
+<br>  
+
+<h2>🌐🔗 Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0&color=000000)](https://www.linkedin.com/in/guilhermesouzadev)
 
-<br>  📊💻 GitHub Stats
+<h2>📊💻 GitHub Stats</h2>
 
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&line_height=25&hide=issues&border_radius=3&border_color=36123c" alt="GitHub stats" />  
-</p>  <details align="left">  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdev&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&line_height=25&hide=issues&border_radius=3&border_color=36123c" alt="GitHub stats" />
+</p>
+  
+
+<details align="left">  
   <summary>ℹ️ More Info</summary>   🛡️ Badges by <a href="https://shields.io/">shields.io</a><br>
 
 📈 GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
