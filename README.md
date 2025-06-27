@@ -4,7 +4,7 @@
 </h1> 
 
 <p align="justify">  
-    Systems Development student at ETEC, focusing on programming languages such as HTML, CSS, Python, and Java.  
+    Systems Development student at ETEC, focusing on programming languages such as C++, Python, and Java.  
     In addition to academic studies, I take a self-taught approach to improve my technical skills and explore new technologies and frameworks.  
     I have hands-on experience in programming, systems analysis, and databases, particularly with MySQL, applying these skills to both academic and personal projects.  
     My main interest is in software development, with a strong inclination to specialize in backend and build robust, scalable systems.  
@@ -17,7 +17,7 @@
 
 <p align="left">  
   <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css" alt="My Skills" />  
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql" alt="My Skills" />  
   </a>  
 </p>  
 
