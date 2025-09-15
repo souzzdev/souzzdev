@@ -61,7 +61,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesouzadev)
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.on.souza@outlook.com)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu_id)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/illuminatedsouza)
 <div align="left">
 
 <br>
