@@ -70,7 +70,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=souzzdev&theme=white&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&line_height=25&hide=issues&border_radius=3&border_color=36123c" alt="GitHub stats" />
 </p>
-  
+
+###
+
+###
 
 <details align="left">  
   <summary>ℹ️ More Info</summary>   🛡️ Badges by <a href="https://shields.io/">shields.io</a><br>
