@@ -59,21 +59,20 @@
 
 <h2>🌐🔗 Connect with me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0&color=000000)](https://www.linkedin.com/in/guilhermesouzadev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesouzadev)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.on.souza@outlook.com)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu_id)
+<div align="left">
+
+<br>
 
 <h2>📊💻 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SOUZZDEV&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&line_height=25" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUZZDEV&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUZZDEV&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=souzzdev&theme=white&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&line_height=25&hide=issues&border_radius=3&border_color=36123c" alt="GitHub stats" />
-</p>
-
-###
-
-###
+<br>
 
 <details align="left">  
   <summary>ℹ️ More Info</summary>   🛡️ Badges by <a href="https://shields.io/">shields.io</a><br>
