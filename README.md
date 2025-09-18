@@ -1,7 +1,12 @@
 
-<h1>   <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="3657405.png">
-    <span href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=java" alt="My Skills"> Guilherme Souza</span>  
-</h1> 
+<h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
+       height="40" 
+       alt="java logo" />
+  Guilherme Souza
+</h1>
+
+
 
 <p align="justify">  
     Systems Development student at ETEC, focusing on programming languages such as C, C++, Python, and Java.  
