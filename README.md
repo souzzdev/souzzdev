@@ -9,11 +9,11 @@
 
 
 <p align="justify">  
-    Systems Development student at ETEC, focusing on programming languages such as C, C++, Python, and Java.  
-    In addition to academic studies, I take a self-taught approach to improve my technical skills and explore new technologies and frameworks.  
-    I have hands-on experience in programming, systems analysis, and databases, particularly with MySQL, applying these skills to both academic and personal projects.  
-    My main interest is in software development, with a strong inclination to specialize in backend and build robust, scalable systems.  
-    I am looking for opportunities where I can apply and expand my knowledge, contributing to the development of innovative and efficient technology solutions.  
+   🎓 Systems Development student at ETEC, passionate about coding and always learning.
+  
+   💻 Experience with C, C++, Python, Java and MySQL.
+   
+   🚀 Interested in backend development and building scalable systems.
 </p> 
 
 <br>  
