@@ -9,11 +9,12 @@
 
 
 <p align="justify">  
-   🎓 Systems Development student at ETEC, passionate about coding and always learning.
   
-   💻 Experience with C, C++, Python, Java and MySQL.
+  - 🎓 Systems Development student at ETEC, passionate about coding and always learning.
+  
+  - 💻 Experience with C, C++, Python, Java and MySQL.
    
-   🚀 Interested in backend development and building scalable systems.
+  - 🚀 Interested in backend development and building scalable systems.
 </p> 
 
 <br>  
