@@ -12,7 +12,7 @@
   
   - 🎓 Systems Development student at ETEC, passionate about coding and always learning.
   
-  - 💻 Experience with C, C++, Python, Java and MySQL.
+  - 💻 Experience with Java, Python, C, C++ and MySQL / SQLServer.
    
   - 🚀 Interested in backend development and building scalable systems.
 </p> 
