@@ -58,19 +58,19 @@
 <br>
 
 <h2 align="center">🌐🔗 Connect with me</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermesouzadev">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=default" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:guilherme.on.souza@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=default" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoutlook.svg" height="40" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/illuminatedsouza">
-    <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=default" alt="Discord"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" height="40" alt="Discord"/>
   </a>
 </div>
-
 <br>
 
 <h2 align="center">📊💻 GitHub Stats</h2>
@@ -90,6 +90,8 @@
 </div>
 
 <br>
+<br>
+
 <div align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souzzdev/souzzdev/output/pacman-contribution-graph-dark.svg">
