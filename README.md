@@ -76,9 +76,17 @@
 <h2 align="center">📊💻 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&line_height=25" height="165" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzdev&layout=compact&theme=dark&hide_border=false" height="165" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+    style="margin-right: 15px;"
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=souzzdev&layout=compact&theme=dark&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 <br>
