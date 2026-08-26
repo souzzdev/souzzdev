@@ -58,17 +58,18 @@
 <br>
 
 <h2 align="center">🌐🔗 Connect with me</h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermesouzadev">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:guilherme.on.souza@outlook.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoutlook.svg" height="40" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/illuminatedsouza">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" height="40" alt="Discord"/>
+    <img src="https://cdn.simpleicons.org/discord" height="40" alt="Discord"/>
   </a>
 </div>
 <br>
