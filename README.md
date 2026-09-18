@@ -1,1 +1,170 @@
-<h1 align="center">Guilherme Souza</h1> <p align="center"> 🎓 Systems Development student at ETEC<br> 💻 Focused on backend development and scalable systems </p> <p align="center"> <a href="https://www.linkedin.com/in/guilhermesouzadev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> &nbsp; <a href="mailto:guilherme.on.souza@outlook.com"> <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"> </a> &nbsp; <a href="https://discord.com/users/illuminatedsouza"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"> </a> </p> <br> <h2 align="center">🚀 About Me</h2> <p align="center"> I'm a Systems Development student passionate about software development<br> and always looking to learn something new. <br><br> Currently, I'm focused on <strong>backend development</strong>, with experience in<br> Java, Python, C, C++, SQL and relational databases. <br><br> I enjoy building applications, understanding how systems work under the hood,<br> and turning ideas into functional software. </p> <br> <h2 align="center">🛠️ Tech Stack</h2> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="Java"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="45" alt="C++"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="45" alt="MySQL"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server"> </p> <br> <h2 align="center">🔧 Tools</h2> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"> </p> <br> <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" /> &nbsp;&nbsp; <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=souzzdev&layout=compact&theme=dark&langs_count=6" height="170" alt="Top Languages" /> </p> <br> <p align="center"> <i>Always learning. Always building.</i> </p>
+<h1 align="center">Guilherme Souza</h1>
+
+<p align="center">
+  🎓 Systems Development student at ETEC<br>
+  💻 Focused on backend development and scalable systems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermesouzadev">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+  &nbsp;
+  <a href="mailto:guilherme.on.souza@outlook.com">
+    <img
+      src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"
+      alt="Email"
+    >
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/illuminatedsouza">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"
+      alt="Discord"
+    >
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I'm a Systems Development student passionate about software development<br>
+  and always looking to learn something new.
+  <br><br>
+  Currently, I'm focused on <strong>backend development</strong>, with experience in<br>
+  Java, Python, C, C++, SQL and relational databases.
+  <br><br>
+  I enjoy building applications, understanding how systems work under the hood,<br>
+  and turning ideas into functional software.
+</p>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+    height="45"
+    alt="Java"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+    height="45"
+    alt="Spring"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="45"
+    alt="Python"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    height="45"
+    alt="C"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
+    height="45"
+    alt="C++"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"
+    height="45"
+    alt="MySQL"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    height="45"
+    alt="SQL Server"
+  >
+</p>
+
+<br>
+
+<h2 align="center">🔧 Tools</h2>
+
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="40"
+    alt="Git"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    height="40"
+    alt="GitHub"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    height="40"
+    alt="Docker"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+    height="40"
+    alt="Postman"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+    height="40"
+    alt="IntelliJ IDEA"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    height="40"
+    alt="VS Code"
+  >
+</p>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=souzzdev&theme=dark&show_icons=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  >
+  &nbsp;&nbsp;
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=souzzdev&layout=compact&theme=dark&langs_count=6"
+    height="170"
+    alt="Top Languages"
+  >
+</p>
+
+<br>
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
