@@ -25,7 +25,6 @@
   </a>
 </p>
 
----
 
 <h2 align="center">About Me</h2>
 
@@ -62,15 +61,6 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="32" alt="IntelliJ IDEA">
 </p>
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=souzzdev&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Statistics">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=souzzdev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="155" alt="Most Used Languages">
-</p>
-
----
 
 <p align="center">
   <i>"Simplicity is the ultimate sophistication."</i>
